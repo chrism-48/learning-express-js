@@ -1,0 +1,22 @@
+{
+  "name": "learning-express",
+  "version": "1.0.0",
+  "description": "Working with express js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrism-48/learning-express-js.git"
+  },
+  "author": "Chris Moore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrism-48/learning-express-js/issues"
+  },
+  "homepage": "https://github.com/chrism-48/learning-express-js#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
